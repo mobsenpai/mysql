@@ -12,7 +12,8 @@ create table accounts(
 insert into accounts values
 (101, 'Yash', 30000),
 (102, 'Aryan', 80000),
-(103, 'Pritam', 70000);
+(103, 'Pritam', 70000),
+(104, 'Prishu', 8000);
 
 
 select 'initial data -' as '';
